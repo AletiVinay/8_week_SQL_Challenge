@@ -96,4 +96,3 @@ set
    from customer_orders
    group by 1
    order by 2 
-
