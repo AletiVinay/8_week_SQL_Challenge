@@ -41,4 +41,4 @@ Three key datasets for this case study
 11. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 12. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
   
-Click [here](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%201%20-%20Danny's%20Diner/Danny's%20Diner%20Solution.md) to view the solution solution of the case study!
+Click [here](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Case%20study_1%20Danny%20Dinner/Data%20with%20danny%20dinner(case%20study-1).sql) to view the solution solution of the case study!
