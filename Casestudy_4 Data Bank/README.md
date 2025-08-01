@@ -47,6 +47,6 @@ Customer transaction table stores all customer deposits, withdrawals and purchas
   
 ## Case Study Solutions
 - [A. Customer Nodes Exploration](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Casestudy_4%20Data%20Bank/Customer%20Nodes%20Exploration.sql)
-- [B. Customer Transactions](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%204%20-%20Data%20Bank/B.%20Customer%20Transactions.md)
+- [B. Customer Transactions](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Casestudy_4%20Data%20Bank/Customer%20Transactions.sql)
 - [C. Data Allocation Challenge](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%204%20-%20Data%20Bank/C.%20Data%20Allocation%20Challenge.md)
 
