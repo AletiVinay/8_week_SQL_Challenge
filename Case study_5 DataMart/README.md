@@ -39,6 +39,6 @@ Each record in the dataset is related to a specific aggregated slice of the unde
 
 ## Case Study Solutions
 - [A. Data Cleansing Steps](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Case%20study_5%20DataMart/Data%20Cleaning%20Steps.sql)
-- [B. Data Exploration]()
+- [B. Data Exploration](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Case%20study_5%20DataMart/Data%20Exploration.sql)
 - [C. Before & After Analysis]()
 - [D. Bonus Question]()
