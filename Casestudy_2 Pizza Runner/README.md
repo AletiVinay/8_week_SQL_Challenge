@@ -47,8 +47,8 @@ There are some known data issues with few tables. Data cleaning was performed an
 Click [here](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/Data%20Clean.md) to view the data cleaning peformed.
 
 ## Case Study Solutions
-- [A. Pizza Metrics](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/A.%20Pizza%20metrics.md)
-- [B. Runner and Customer Experience](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
-- [C. Ingredient Optimisation](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/C.%20Ingredient%20Optimisation.md)
-- [D. Pricing and Ratings](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/D.%20Pricing%20and%20Ratings.md)
-- [E. Bonus Questions](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/E.%20Bonus%20Questions.md)
+- [A. Pizza Metrics](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Casestudy_2%20Pizza%20Runner/Pizza%20Metrics.sql)
+- [B. Runner and Customer Experience](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Casestudy_2%20Pizza%20Runner/Runner%20and%20customer%20Experience.sql)
+- [C. Ingredient Optimisation](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Casestudy_2%20Pizza%20Runner/Ingredient%20Optimisation.sql))
+
+- [D. Pricing and Ratings](https://github.com/AletiVinay/8_week_SQL_Challenge/blob/master/Casestudy_2%20Pizza%20Runner/Pricing%20and%20Rating.sql)
